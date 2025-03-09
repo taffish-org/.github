@@ -33,19 +33,19 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 ## TAFFISH-HUB
 
 ### BASE
-- [(base)debian :: 12](https://github.com/taffish-org/debian)
-- [(base)python :: 3.13.2](https://github.com/taffish-org/python)
-- [(base)sbcl :: 2.5.2](https://github.com/taffish-org/sbcl)
+- [debian :: 12](https://github.com/taffish-org/debian)
+- [python :: 3.13.2](https://github.com/taffish-org/python)
+- [sbcl :: 2.5.2](https://github.com/taffish-org/sbcl)
 
 ### TOOL
-- [(tool)blast :: 2.16.0](https://github.com/taffish-org/blast)
-- [(tool)cdhit :: 4.8.1](https://github.com/taffish-org/cdhit)
-- [(tool)hmmer :: 3.4](https://github.com/taffish-org/hmmer)
-- [(tool)get-seqs-from-ids :: 1.0.0](https://github.com/taffish-org/get-seqs-from-ids)
-- [(tool)sra-tools :: 3.2.0](https://github.com/taffish-org/sra-tools)
-- [(tool)seqtk :: 1.4](https://github.com/taffish-org/seqtk)
-- [(tool)fastqc :: 0.11.9](https://github.com/taffish-org/fastqc)
-- [(tool)muscle :: 5.3](https://github.com/taffish-org/muscle)
+- [blast :: 2.16.0](https://github.com/taffish-org/blast)
+- [cdhit :: 4.8.1](https://github.com/taffish-org/cdhit)
+- [hmmer :: 3.4](https://github.com/taffish-org/hmmer)
+- [get-seqs-from-ids :: 1.0.0](https://github.com/taffish-org/get-seqs-from-ids)
+- [sra-tools :: 3.2.0](https://github.com/taffish-org/sra-tools)
+- [seqtk :: 1.4](https://github.com/taffish-org/seqtk)
+- [fastqc :: 0.11.9](https://github.com/taffish-org/fastqc)
+- [muscle :: 5.3](https://github.com/taffish-org/muscle)
 
 ### FLOW
-- [(flow)gene-family-search :: 1.0.0](https://github.com/taffish-org/gene-family-search)
+- [gene-family-search :: 1.0.0](https://github.com/taffish-org/gene-family-search)
