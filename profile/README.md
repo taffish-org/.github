@@ -30,7 +30,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
-## TAFFISH-HUB
+## 🏠 TAFFISH-HUB
 
 ### BASE
 - [debian :: 12](https://github.com/taffish-org/debian)
