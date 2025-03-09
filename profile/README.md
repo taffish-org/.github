@@ -17,13 +17,13 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-darwin-arm64-beta.sh)" -n
 ```
 
-### Debian12 (Linux)
+### ![debian-tiny](https://github.com/user-attachments/assets/a691a828-33e8-4cc5-bf2e-7c32b8966478) Debian12 (Linux)
 
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-debian12-amd64-beta.sh)" -n
 ```
 
-### Ubuntu (Linux) (>=18.04.1-LTS)
+### ![ubuntu-tiny](https://github.com/user-attachments/assets/c273d07e-3c10-4af2-897a-4efa2a8c49b5) Ubuntu (Linux) (>=18.04.1-LTS)
 
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-ubuntu-amd64-beta.sh)" -n
