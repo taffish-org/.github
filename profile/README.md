@@ -2,7 +2,7 @@
 TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying about software installation, environment conflicts, container management, cluster operations, ...... Build, use, and share your own portable, reproducible scientific workflows just like shell commands.
 
 ## Links
-- https://taffish.com
+- taffish: https://taffish.com
 
 ## Install
 - MacOS(Darwin)(Apple Silicon)
