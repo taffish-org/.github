@@ -11,19 +11,19 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 ## ⬇️ Install
 
-### MacOS (Darwin) (Apple Silicon)
+### ![image](https://github.com/user-attachments/assets/82e1fc2d-ad55-471f-841f-bc24c63cec5b) MacOS (Darwin) (Apple Silicon)
 
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-darwin-arm64-beta.sh)" -n
 ```
 
-### Debian12 (Linux)
+### ![image](https://github.com/user-attachments/assets/3271b65c-f9e7-4f24-bfd1-2a92b996cd41) Debian12 (Linux)
 
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-debian12-amd64-beta.sh)" -n
 ```
 
-### Ubuntu (Linux) (>=18.04.1-LTS)
+### ![image](https://github.com/user-attachments/assets/bbd6c074-a040-4fe3-b20d-f655d9f3f02b) Ubuntu (Linux) (>=18.04.1-LTS)
 
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-ubuntu-amd64-beta.sh)" -n
