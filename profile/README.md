@@ -5,7 +5,9 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 
 ## 📎 Links
-- taffish: https://taffish.com
+- [taffish-official-website](https://taffish.com)
+- [github: taffish-hub](https://github.com/taffish-org/taffish-hub)
+- [github: taffish-install](https://github.com/taffish-org/taffish-install)
 
 
 
