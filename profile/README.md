@@ -4,7 +4,7 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 
 
-## 📎 Links
+## ⛓️‍💥 Links
 - [taffish-official-website](https://taffish.com)
 - [github: taffish-install](https://github.com/taffish-org/taffish-install)
 - [github: taffish-hub](https://github.com/taffish-org/taffish-hub)
@@ -41,7 +41,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
 - [R :: v4.4.3](https://github.com/taffish-org/R)
 
-### TOOL
+### 🛠️ TOOLs
 - [muscle :: v5.3](https://github.com/taffish-org/muscle)
 - [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 - [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -61,5 +61,5 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [bowtie2 :: v2.5.4](https://github.com/taffish-org/bowtie2)
 - [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
 
-### FLOW
+### ⛓ FLOWs
 - [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
