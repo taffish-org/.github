@@ -33,7 +33,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
-## 🏠 TAFFISH-HUB -- for taf-apps (23)
+## 🏠 TAFFISH-HUB -- (taf-apps) (23)
 
 ### ⚙️ BASE (4)
 - [debian :: v12](https://github.com/taffish-org/debian)
