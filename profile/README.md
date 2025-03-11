@@ -11,7 +11,7 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 
 
-## ⬇️ Install
+## 📥 Install
 
 ### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Apple Silicon)
 
@@ -35,7 +35,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 ## 🏠 TAFFISH-HUB
 
-### BASE
+### ⚙️ BASE
 - [debian :: v12](https://github.com/taffish-org/debian)
 - [python :: v3.13.2](https://github.com/taffish-org/python)
 - [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
@@ -61,5 +61,5 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [bowtie2 :: v2.5.4](https://github.com/taffish-org/bowtie2)
 - [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
 
-### ⛓ FLOWs
+### 🌊 FLOWs
 - [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
