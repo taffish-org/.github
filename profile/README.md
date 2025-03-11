@@ -35,13 +35,13 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 ## 🏠 TAFFISH-HUB
 
-### ⚙️ BASE
+### ⚙️ BASE (4)
 - [debian :: v12](https://github.com/taffish-org/debian)
 - [python :: v3.13.2](https://github.com/taffish-org/python)
 - [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
 - [R :: v4.4.3](https://github.com/taffish-org/R)
 
-### 🛠️ TOOLs
+### 🛠️ TOOLs (18)
 - [muscle :: v5.3](https://github.com/taffish-org/muscle)
 - [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 - [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -61,5 +61,5 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [bowtie2 :: v2.5.4](https://github.com/taffish-org/bowtie2)
 - [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
 
-### 🪢 FLOWs
+### 🪢 FLOWs (1)
 - [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
