@@ -33,16 +33,6 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
-## Quick Start
-
-### after install
-
-After install, you will have two binaries: taffish & taf:
-- taffish :: the interpreter for the taffish language for running/translating .taf scripts
-- taf     :: package manager for taf-app to install and manage taf-app in TAFFISH-HUB
-> More information can be found at [\[taffish-official-website\]](https://taffish.com)
-
-
 ## 🏠 TAFFISH-HUB -- for taf-apps (23)
 
 ### ⚙️ BASE (4)
