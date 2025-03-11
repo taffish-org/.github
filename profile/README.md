@@ -11,7 +11,7 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 
 
-## 📥 Install
+    ## 📥 Install
 
 ### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Apple Silicon)
 
