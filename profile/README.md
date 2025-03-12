@@ -61,6 +61,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [bowtie2 :: v2.5.4](https://github.com/taffish-org/bowtie2)
 - [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
 - [kallisto :: v0.51.1](https://github.com/taffish-org/kallisto)
+- [bustools :: v0.44.1](https://github.com/taffish-org/bustools)
 
 ### 🪢 FLOWs (1)
 - [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
