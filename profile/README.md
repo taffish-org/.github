@@ -33,7 +33,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (23)
+## 🏠 TAFFISH-HUB (taf-apps) (27)
 
 ### ⚙️ BASE (4)
 - [debian :: v12](https://github.com/taffish-org/debian)
@@ -41,8 +41,8 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
 - [R :: v4.4.3](https://github.com/taffish-org/R)
 
-### 🛠️ TOOLs (18)
-- [muscle :: v5.3](https://github.com/taffish-org/muscle)
+### 🛠️ TOOLs (22)
+1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 - [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 - [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
 - [juicer :: v2.20.00](https://github.com/taffish-org/juicer)
