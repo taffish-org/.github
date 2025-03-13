@@ -42,7 +42,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 - [R :: v4.4.3](https://github.com/taffish-org/R)
 
 ### 🛠️ TOOLs (22)
-1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
+- [muscle :: v5.3](https://github.com/taffish-org/muscle)
 - [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 - [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
 - [juicer :: v2.20.00](https://github.com/taffish-org/juicer)
