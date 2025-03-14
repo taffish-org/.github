@@ -31,7 +31,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-darwin-arm64-beta.sh)" -n
 ```
 
-### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Intel, x86_64)
+### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Intel Chip, x86_64)
 
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-darwin-amd64-beta.sh)" -n
