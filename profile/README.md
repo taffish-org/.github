@@ -16,25 +16,25 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 ### ![tiny-Debian-OpenLogo](https://github.com/user-attachments/assets/fc2e8de9-fbfc-4675-8d37-5181474be5b3) Debian12 (Linux)
 
 ```bash
-sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-debian12-amd64-beta.sh)" -n
+sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-debian12-amd64-beta.sh)" -n
 ```
 
 ### ![tiny-Ubuntu-logo-2022](https://github.com/user-attachments/assets/fcdbcd66-0fe8-42a9-bf44-714c24d0fbdf) Ubuntu (Linux) (>=18.04.1-LTS)
 
 ```bash
-sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-ubuntu-amd64-beta.sh)" -n
+sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-ubuntu-amd64-beta.sh)" -n
 ```
 
 ### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Apple Silicon, arm64)
 
 ```bash
-sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-darwin-arm64-beta.sh)" -n
+sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-darwin-arm64-beta.sh)" -n
 ```
 
 ### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Intel Chip, x86_64)
 
 ```bash
-sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/v1.0.0/install-taffish-darwin-amd64-beta.sh)" -n
+sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-darwin-amd64-beta.sh)" -n
 ```
 
 
