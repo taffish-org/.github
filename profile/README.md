@@ -49,13 +49,14 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (31)
+## 🏠 TAFFISH-HUB (taf-apps) (32)
 
-### ⚙️ BASE (4)
+### ⚙️ BASE (5)
 1. [debian :: v12](https://github.com/taffish-org/debian)
 2. [python :: v3.13.2](https://github.com/taffish-org/python)
 3. [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
 4. [R :: v4.4.3](https://github.com/taffish-org/R)
+5. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
 ### 🛠️ TOOLs (26)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
