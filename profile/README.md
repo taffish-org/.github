@@ -39,6 +39,16 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
+## Quick Start
+
+```bash
+taf update
+taf install -y hello
+taf-hello --to $USER
+```
+
+
+
 ## 🏠 TAFFISH-HUB (taf-apps) (31)
 
 ### ⚙️ BASE (4)
