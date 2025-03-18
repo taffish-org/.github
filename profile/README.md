@@ -39,7 +39,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (30)
+## 🏠 TAFFISH-HUB (taf-apps) (31)
 
 ### ⚙️ BASE (4)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -47,7 +47,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 3. [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
 4. [R :: v4.4.3](https://github.com/taffish-org/R)
 
-### 🛠️ TOOLs (25)
+### 🛠️ TOOLs (26)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -73,6 +73,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 23. [clustal-omega :: v1.2.4](https://github.com/taffish-org/clustal-omega)
 24. [bwa :: v0.7.18](https://github.com/taffish-org/bwa)
 25. [gatk :: v4.6.1.0](https://github.com/taffish-org/gatk)
+26. [salmon :: v1.10.3](https://github.com/taffish-org/salmon)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
