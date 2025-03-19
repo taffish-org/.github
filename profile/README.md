@@ -49,7 +49,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (32)
+## 🏠 TAFFISH-HUB (taf-apps) (34)
 
 ### ⚙️ BASE (5)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -58,7 +58,7 @@ taf-hello --to $USER
 4. [R :: v4.4.3](https://github.com/taffish-org/R)
 5. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
-### 🛠️ TOOLs (26)
+### 🛠️ TOOLs (28)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -75,16 +75,18 @@ taf-hello --to $USER
 14. [subread :: v2.0.2](https://github.com/taffish-org/subread)
 15. [bedtools :: v2.31.1](https://github.com/taffish-org/bedtools)
 16. [samtools :: v1.21](https://github.com/taffish-org/samtools)
-17. [bowtie2 :: v2.5.4](https://github.com/taffish-org/bowtie2)
-18. [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
-19. [kallisto :: v0.51.1](https://github.com/taffish-org/kallisto)
-20. [bustools :: v0.44.1](https://github.com/taffish-org/bustools)
-21. [hisat2 :: v2.2.1](https://github.com/taffish-org/hisat2) (amd64 only)
-22. [mafft :: v7.525](https://github.com/taffish-org/mafft)
-23. [clustal-omega :: v1.2.4](https://github.com/taffish-org/clustal-omega)
-24. [bwa :: v0.7.18](https://github.com/taffish-org/bwa)
-25. [gatk :: v4.6.1.0](https://github.com/taffish-org/gatk)
-26. [salmon :: v1.10.3](https://github.com/taffish-org/salmon)
+17. [bcftools :: v1.21](https://github.com/taffish-org/bcftools)
+18. [bowtie2 :: v2.5.4](https://github.com/taffish-org/bowtie2)
+19. [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
+20. [kallisto :: v0.51.1](https://github.com/taffish-org/kallisto)
+21. [bustools :: v0.44.1](https://github.com/taffish-org/bustools)
+22. [hisat2 :: v2.2.1](https://github.com/taffish-org/hisat2) (amd64 only)
+23. [mafft :: v7.525](https://github.com/taffish-org/mafft)
+24. [clustal-omega :: v1.2.4](https://github.com/taffish-org/clustal-omega)
+25. [bwa :: v0.7.18](https://github.com/taffish-org/bwa)
+26. [gatk :: v4.6.1.0](https://github.com/taffish-org/gatk)
+27. [salmon :: v1.10.3](https://github.com/taffish-org/salmon)
+28. [Trinity :: v2.15.2](https://github.com/taffish-org/Trinity)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
