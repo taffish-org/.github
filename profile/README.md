@@ -14,10 +14,10 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 ## 📥 Install
 
 ### Container Apps before TAFFISH:
-You need to install at least one Container App([Docker](https://www.docker.com/)/[Podman](https://podman.io/)/[Apptainer(Singularity)](https://apptainer.org/index.html)) for taffish.
-And we suggest:
-    - Windows(WSL)/Mac: [Docker](https://www.docker.com/) :: for people who are root users
-    - Linux : [Apptainer](https://apptainer.org/index.html)/[Podman](https://podman.io/) :: for people who are not root users
+You need to install at least one Container App([Docker](https://www.docker.com/)/[Podman](https://podman.io/)/[Apptainer(Singularity)](https://apptainer.org/index.html)) for taffish. And we suggest:
+
+  - Windows(WSL)/Mac: [Docker](https://www.docker.com/) :: for people who are root users
+  - Linux : [Apptainer](https://apptainer.org/index.html)/[Podman](https://podman.io/) :: for people who are not root users
 
 ### ![tiny-Debian-OpenLogo](https://github.com/user-attachments/assets/fc2e8de9-fbfc-4675-8d37-5181474be5b3) Debian12 (Linux)
 
