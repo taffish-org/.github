@@ -99,9 +99,10 @@ taf-hello --to $USER
 31. [hifiasm :: v0.25.0](https://github.com/taffish-org/hifiasm) (amd64 only)
 32. [haphic :: v1.0.6](https://github.com/taffish-org/haphic)
 33. [autodock-vina :: v1.2.7](https://github.com/taffish-org/autodock-vina)
-34. [rosetta :: vml-378](https://github.com/taffish-org/rosetta) (amd64 only & need avx2)
+34. [rosetta :: v378.ml](https://github.com/taffish-org/rosetta) (amd64 only & need avx2)
 35. [gromacs :: 2025.1](https://github.com/taffish-org/gromacs)
 36. [MMseqs2 :: 17](https://github.com/taffish-org/MMseqs2) (amd64 may need avx2)
+37. [foldseek :: 10](https://github.com/taffish-org/foldseek) (amd64 may need avx2)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
