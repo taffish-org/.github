@@ -99,7 +99,7 @@ taf-hello --to $USER
 31. [hifiasm :: v0.25.0](https://github.com/taffish-org/hifiasm) (amd64 only)
 32. [haphic :: v1.0.6](https://github.com/taffish-org/haphic)
 33. [autodock-vina :: v1.2.7](https://github.com/taffish-org/autodock-vina)
-34. [rosetta :: vml-378](https://github.com/taffish-org/rosetta)
+34. [rosetta :: vml-378](https://github.com/taffish-org/rosetta) (amd64 only & need avx2)
 35. [gromacs :: 2025.1](https://github.com/taffish-org/gromacs)
 
 ### 🪢 FLOWs (1)
