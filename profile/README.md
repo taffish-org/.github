@@ -55,7 +55,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (42)
+## 🏠 TAFFISH-HUB (taf-apps) (44)
 
 ### ⚙️ BASE (6)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -65,7 +65,7 @@ taf-hello --to $USER
 5. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 6. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
-### 🛠️ TOOLs (35)
+### 🛠️ TOOLs (37)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
