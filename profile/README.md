@@ -107,3 +107,5 @@ taf-hello --to $USER
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
+
+> Sometimes, a taf-flow could use some tools which are not in taf-hub, because some tools need Licence, we can't make docker images for them, but you can install them by yourselves and make sure it's in your PATH, so that taffish can use it.
