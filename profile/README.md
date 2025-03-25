@@ -1,6 +1,7 @@
 # Welcom to TAFFISH-ORG 👋
 
 TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying about software installation, environment conflicts, container management, cluster operations, ...... Build, use, and share your own portable, reproducible scientific tools and workflows just like shell commands.
+> TAFFISH is still on build...
 
 
 
