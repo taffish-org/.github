@@ -112,7 +112,7 @@ taf-hello --to $USER
 36. [MMseqs2 :: v17](https://github.com/taffish-org/MMseqs2) (amd64 may need avx2)
 37. [foldseek :: v10](https://github.com/taffish-org/foldseek) (amd64 may need avx2)
 38. [esm-fold :: v1.0.3](https://github.com/taffish-org/esm-fold) (amd64 only)
-    > This taf-app need GPU, so you may need to set '--gpus all' for Docker or '--nv' for Apptainer in your config.container.taf, you can see details on [TAFFISH-USER-MANUAL](https://taffish.com/docs.html)
+    > This taf-app need GPU, so you may need to set '--gpus all' for Docker or '--nv' for Apptainer in your config.container.taf, you can see details on [TAFFISH-MANUAL](https://taffish.com/docs.html)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
