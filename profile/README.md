@@ -62,18 +62,18 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (45)
+## 🏠 TAFFISH-HUB (taf-apps) (46)
 
-### ⚙️ BASE (6)
+### ⚙️ BASE (7)
 1. [debian :: v12](https://github.com/taffish-org/debian)
 2. [python :: v3.13.2](https://github.com/taffish-org/python)
-3. [conda :: v3.12](https://github.com/taffish-org/conda)
+3. [conda :: v24.9.2](https://github.com/taffish-org/conda)
 4. [sbcl :: v2.5.2](https://github.com/taffish-org/sbcl)
 5. [R :: v4.4.3](https://github.com/taffish-org/R)
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
-### 🛠️ TOOLs (37)
+### 🛠️ TOOLs (38)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -108,9 +108,10 @@ taf-hello --to $USER
 32. [haphic :: v1.0.6](https://github.com/taffish-org/haphic)
 33. [autodock-vina :: v1.2.7](https://github.com/taffish-org/autodock-vina)
 34. [rosetta :: v378.ml](https://github.com/taffish-org/rosetta) (amd64 only & need avx2)
-35. [gromacs :: 2025.1](https://github.com/taffish-org/gromacs)
-36. [MMseqs2 :: 17](https://github.com/taffish-org/MMseqs2) (amd64 may need avx2)
-37. [foldseek :: 10](https://github.com/taffish-org/foldseek) (amd64 may need avx2)
+35. [gromacs :: v2025.1](https://github.com/taffish-org/gromacs)
+36. [MMseqs2 :: v17](https://github.com/taffish-org/MMseqs2) (amd64 may need avx2)
+37. [foldseek :: v10](https://github.com/taffish-org/foldseek) (amd64 may need avx2)
+38. [esm-fold :: v1.0.3](https://github.com/taffish-org/esm-fold) (amd64 only)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
