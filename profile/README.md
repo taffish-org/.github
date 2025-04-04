@@ -28,6 +28,8 @@ You need to install these apps before installing TAFFISH:
 
 ### ![tiny-Debian-OpenLogo](https://github.com/user-attachments/assets/fc2e8de9-fbfc-4675-8d37-5181474be5b3) Debian12 (Linux)
 
+> If you want to install taffish for all users on your computr, you shold use root to install taffish, suck like add 'sudo' before the install command ⬇️.
+
 ```bash
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-debian12-amd64-beta.sh)" -n
 ```
