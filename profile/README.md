@@ -26,7 +26,7 @@ You need to install these apps before installing TAFFISH:
   - Linux : [Apptainer](https://apptainer.org/index.html)/[Podman](https://podman.io/) :: for people who are not root users (but you may need root to install them to make sure all non-root users can use these container apps)
     > If you just need the command line tool for once run, Apptainer may be faster, but if you need to change some environment sets such like installing some python/R packages in the taf-app, maybe podman/docker will be better, because Apptainer just for once running without enviroment changing.
 
-> If you want to install taffish for all users on your computr, you shold use root to install taffish, suck like add 'sudo' before the install command ⬇️.
+> If you want to install taffish for all users on your computer, you shold use root to install taffish, suck like add 'sudo' before the install command ⬇️.
 
 ### ![tiny-Debian-OpenLogo](https://github.com/user-attachments/assets/fc2e8de9-fbfc-4675-8d37-5181474be5b3) Debian12 (Linux)
 
