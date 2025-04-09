@@ -116,6 +116,7 @@ taf-hello --to $USER
 38. [esm-fold :: v1.0.3](https://github.com/taffish-org/esm-fold) (amd64 only)
     > This taf-app need GPU, so you may need to set '--gpus all' for Docker or '--nv' for Apptainer in your config.container.taf, you can see details on [TAFFISH-MANUAL](https://taffish.com/docs.html)
 39. [jellyfish :: v2.3.1](https://github.com/taffish-org/jellyfish)
+40. [genomescope :: v0.0.0](https://github.com/taffish-org/genomescope)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
