@@ -64,7 +64,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (46)
+## 🏠 TAFFISH-HUB (taf-apps) (47)
 
 ### ⚙️ BASE (7)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -75,7 +75,7 @@ taf-hello --to $USER
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
-### 🛠️ TOOLs (38)
+### 🛠️ TOOLs (39)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -115,6 +115,7 @@ taf-hello --to $USER
 37. [foldseek :: v10](https://github.com/taffish-org/foldseek) (amd64 may need avx2)
 38. [esm-fold :: v1.0.3](https://github.com/taffish-org/esm-fold) (amd64 only)
     > This taf-app need GPU, so you may need to set '--gpus all' for Docker or '--nv' for Apptainer in your config.container.taf, you can see details on [TAFFISH-MANUAL](https://taffish.com/docs.html)
+39. [jellyfish :: v2.3.1](https://github.com/taffish-org/jellyfish)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
