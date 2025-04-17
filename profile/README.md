@@ -63,7 +63,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (51)
+## 🏠 TAFFISH-HUB (taf-apps) (52)
 
 ### ⚙️ BASE (7)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -74,7 +74,7 @@ taf-hello --to $USER
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
-### 🛠️ TOOLs (43)
+### 🛠️ TOOLs (44)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -119,6 +119,7 @@ taf-hello --to $USER
 41. [kmc :: v3.2.4](https://github.com/taffish-org/kmc) (no py_kmc_api)
 42. [bamtools :: v2.5.2](https://github.com/taffish-org/bamtools)
 43. [gfatools :: v0.5](https://github.com/taffish-org/gfatools)
+44. [quast :: v5.3.0](https://github.com/taffish-org/quast) (amd64 only)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
