@@ -63,7 +63,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (49)
+## 🏠 TAFFISH-HUB (taf-apps) (50)
 
 ### ⚙️ BASE (7)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -117,6 +117,7 @@ taf-hello --to $USER
 39. [jellyfish :: v2.3.1](https://github.com/taffish-org/jellyfish)
 40. [genomescope :: v2.0.1](https://github.com/taffish-org/genomescope)
 41. [kmc :: v3.2.4](https://github.com/taffish-org/kmc) (no py_kmc_api)
+42. [bamtools :: v2.5.2](https://github.com/taffish-org/bamtools)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
