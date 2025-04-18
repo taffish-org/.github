@@ -104,7 +104,7 @@ taf-hello --to $USER
 27. [salmon :: v1.10.3](https://github.com/taffish-org/salmon)
 28. [Trinity :: v2.15.2](https://github.com/taffish-org/Trinity)
 29. [freebayes :: v1.3.9](https://github.com/taffish-org/freebayes)
-30. [pymol :: v3.1.0](https://github.com/taffish-org/pymol)
+30. [pymol :: v3.1.0.gui](https://github.com/taffish-org/pymol)
 31. [hifiasm :: v0.25.0](https://github.com/taffish-org/hifiasm) (amd64 only)
 32. [haphic :: v1.0.6](https://github.com/taffish-org/haphic)
 33. [autodock-vina :: v1.2.7](https://github.com/taffish-org/autodock-vina)
