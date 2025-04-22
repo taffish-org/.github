@@ -63,7 +63,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (54)
+## 🏠 TAFFISH-HUB (taf-apps) (55)
 
 ### ⚙️ BASE (7)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -74,7 +74,7 @@ taf-hello --to $USER
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 
-### 🛠️ TOOLs (46)
+### 🛠️ TOOLs (47)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -104,7 +104,7 @@ taf-hello --to $USER
 27. [salmon :: v1.10.3](https://github.com/taffish-org/salmon)
 28. [Trinity :: v2.15.2](https://github.com/taffish-org/Trinity)
 29. [freebayes :: v1.3.9](https://github.com/taffish-org/freebayes)
-30. [pymol :: v3.1.0.gui](https://github.com/taffish-org/pymol)
+30. [pymol :: v3.1.0.gui](https://github.com/taffish-org/pymol) (support gui)
 31. [hifiasm :: v0.25.0](https://github.com/taffish-org/hifiasm) (amd64 only)
 32. [haphic :: v1.0.6](https://github.com/taffish-org/haphic)
 33. [autodock-vina :: v1.2.7](https://github.com/taffish-org/autodock-vina)
@@ -122,6 +122,7 @@ taf-hello --to $USER
 44. [quast :: v5.3.0](https://github.com/taffish-org/quast) (amd64 only)
 45. [minimap2 :: v2.29](https://github.com/taffish-org/minimap2)
 46. [tgsgapcloser :: v1.2.1](https://github.com/taffish-org/tgsgapcloser)
+47. [juicebox :: v3.1.4](https://github.com/taffish-org/juicebox) (support gui)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
