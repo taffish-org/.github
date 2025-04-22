@@ -73,7 +73,7 @@ taf-hello --to $USER
 5. [R :: v4.4.3](https://github.com/taffish-org/R)
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
-8. [gui :: v1.0.0](https://github.com/taffish-org/gui)
+8. [gui :: v1.0.0](https://github.com/taffish-org/gui) (support gui)
 
 ### 🛠️ TOOLs (47)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
