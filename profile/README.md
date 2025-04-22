@@ -63,9 +63,9 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (55)
+## 🏠 TAFFISH-HUB (taf-apps) (56)
 
-### ⚙️ BASE (7)
+### ⚙️ BASE (8)
 1. [debian :: v12](https://github.com/taffish-org/debian)
 2. [python :: v3.13.2](https://github.com/taffish-org/python)
 3. [conda :: v24.9.2](https://github.com/taffish-org/conda)
@@ -73,6 +73,7 @@ taf-hello --to $USER
 5. [R :: v4.4.3](https://github.com/taffish-org/R)
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
+8. [gui :: v1.0.0](https://github.com/taffish-org/gui)
 
 ### 🛠️ TOOLs (47)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
