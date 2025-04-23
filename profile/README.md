@@ -127,7 +127,8 @@ taf-hello --to $USER
 48. [busco :: v5.8.2](https://github.com/taffish-org/busco)
 49. [trf :: v4.09.1](https://github.com/taffish-org/trf)
 50. [augustus :: v3.5.0](https://github.com/taffish-org/augustus)
-51. [EVidenceModeler :: v2.1.0](https://github.com/taffish-org/EVidenceModeler)
+51. [EVidenceModeler :: v2.1.0](https://github.com/taffish-org/EVidenceModeler) (amd64 only)
+52. [RepeatMasker :: v4.1.8](https://github.com/taffish-org/RepeatMasker)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
