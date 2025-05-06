@@ -39,6 +39,12 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-ubuntu-amd64-beta.sh)" -n
 ```
 
+### ![tiny-CentOS-logo](https://github.com/user-attachments/assets/b9099a7e-9f5c-4bfe-b75e-a7d3b3b87fd0) CentOS 8 (Linux)
+
+```bash
+sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/download/latest/install-taffish-centos8-amd64-beta.sh)" -n
+```
+
 ### ![tiny-Apple_logo_white](https://github.com/user-attachments/assets/36d1ec28-1577-4cd0-a10a-cdaf08952771) MacOS (Darwin) (Apple Silicon, arm64)
 
 ```bash
