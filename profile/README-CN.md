@@ -1,6 +1,6 @@
 # 欢迎来到 TAFFISH-ORG 👋
 
-<center>\[[English](https://github.com/taffish-org/.github/new/main/profile/README.md) | 简体中文\]</center>
+<p align="center"><strong>[ <a href="./README.md">English</a> | 简体中文 ]</strong></p>
 
 TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件安装、环境冲突、容器管理……让您可以像编写 shell 脚本一样构建、使用和共享您自己的可移植、可重现的科学工具和工作流程。
 > TAFFISH 仍然在开发中……
