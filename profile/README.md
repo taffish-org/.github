@@ -15,11 +15,13 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 ### Container Apps before TAFFISH:
 You need to install these apps before installing TAFFISH:
+- (for macOS) homebrew & zstd
+  - If you use macos, you may need to install [homebrew](https://brew.sh/) first
+  - And then use homebrew to install zstd: `brew install zstd`
 - curl & git
-  - Debian/Ubuntu: sudo apt-get update; sudo apt-get install -y curl git
-  - MacOs: brew install curl git
+  - Debian/Ubuntu: `sudo apt-get update; sudo apt-get install -y curl git`
+  - MacOs: `brew install curl git`
 - At least one Container App([Docker](https://www.docker.com/)/[Podman](https://podman.io/)/[Apptainer(Singularity)](https://apptainer.org/index.html)) for taffish. And we suggest:
-
   - Windows(WSL)/Mac: [Docker](https://www.docker.com/) :: for people who are root users
   - Linux : [Apptainer](https://apptainer.org/index.html)/[Podman](https://podman.io/) :: for people who are not root users (but you may need root to install them to make sure all non-root users can use these container apps)
     > If you just need the command line tool for once run, Apptainer may be faster, but if you need to change some environment sets such like installing some python/R packages in the taf-app, maybe podman/docker will be better, because Apptainer just for once running without enviroment changing.
