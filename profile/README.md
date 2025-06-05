@@ -1,6 +1,8 @@
 # Welcom to TAFFISH-ORG 👋
 
-: \[English | [简体中文](https://github.com/taffish-org/.github/blob/main/profile/README-CN.md)\] :
+<center>
+  \[English | [简体中文](https://github.com/taffish-org/.github/blob/main/profile/README-CN.md)\]
+</center>
 
 TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying about software installation, environment conflicts, container management, cluster operations, ...... Build, use, and share your own portable, reproducible scientific tools and workflows just like shell commands.
 > TAFFISH is still on build ...
