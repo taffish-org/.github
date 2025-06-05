@@ -15,8 +15,8 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 ### Container Apps before TAFFISH:
 You need to install these apps before installing TAFFISH:
-- (for macOS) homebrew & zstd
-  - If you use macos, you may need to install [homebrew](https://brew.sh/) first
+- (for MacOS) homebrew & zstd
+  - If you use MacOS, you may need to install [homebrew](https://brew.sh/) first
   - And then use homebrew to install zstd: `brew install zstd`
 - curl & git
   - Debian/Ubuntu: `sudo apt-get update; sudo apt-get install -y curl git`
