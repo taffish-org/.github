@@ -18,7 +18,7 @@ TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件�
 ### 正式安装 TAFFISH 前的准备工作：
 在安装 TAFFISH 之前您需要先安装以下的软件与依赖：
 - (MacOS 用户) homebrew & zstd
-  - 如果您使用的是 MacOS，那么您需要先安装 [homebrew]([https://brew.sh/](https://brew.sh/zh-cn/))
+  - 如果您使用的是 MacOS，那么您需要先安装 [homebrew](https://brew.sh/zh-cn/)
   - 然后使用 homebrew 来安装 zstd: `brew install zstd`
 - curl & git
   - Debian/Ubuntu: `sudo apt-get update; sudo apt-get install -y curl git`
