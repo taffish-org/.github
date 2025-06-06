@@ -8,7 +8,7 @@ TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件�
 
 
 ## ⛓️‍💥 Links
-- [taffish 官网](https://taffish.com)
+- taffish 官网: [https://taffish.com](https://taffish.com/taffish-cn.html)
 - [github: taffish 仓库](https://github.com/taffish-org/taffish-hub)
 
 
