@@ -2,7 +2,7 @@
 
 <p align="center"><strong>[ <a href="./README.md">English</a> | 简体中文 ]</strong></p>
 
-TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件安装、环境冲突、容器管理……让您可以像编写 shell 脚本一样构建、使用和共享您自己的可移植、可重现的科学工具和工作流程。
+TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件安装、环境冲突、容器管理……让您可以像编写 shell 脚本一样构建、使用和分享您自己的可移植、可重现的科学工具和工作流程。
 > TAFFISH 仍然在开发中……
 
 
@@ -13,22 +13,22 @@ TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件�
 
 
 
-## 📥 Install
+## 📥 安装
 
-### Container Apps before TAFFISH:
-You need to install these apps before installing TAFFISH:
-- (for MacOS) homebrew & zstd
-  - If you use MacOS, you may need to install [homebrew](https://brew.sh/) first
-  - And then use homebrew to install zstd: `brew install zstd`
+### 正式安装 TAFFISH 前的准备工作：
+在安装 TAFFISH 之前您需要先安装以下的软件与依赖：
+- (MacOS 用户) homebrew & zstd
+  - 如果您使用的是 MacOS，那么您需要先安装 [homebrew]([https://brew.sh/](https://brew.sh/zh-cn/))
+  - 然后使用 homebrew 来安装 zstd: `brew install zstd`
 - curl & git
   - Debian/Ubuntu: `sudo apt-get update; sudo apt-get install -y curl git`
   - MacOs: `brew install curl git`
-- At least one Container App([Docker](https://www.docker.com/)/[Podman](https://podman.io/)/[Apptainer(Singularity)](https://apptainer.org/index.html)) for taffish. And we suggest:
-  - Windows(WSL)/Mac: [Docker](https://www.docker.com/) :: for people who are root users
-  - Linux : [Apptainer](https://apptainer.org/index.html)/[Podman](https://podman.io/) :: for people who are not root users (but you may need root to install them to make sure all non-root users can use these container apps)
-    > If you just need the command line tool for once run, Apptainer may be faster, but if you need to change some environment sets such like installing some python/R packages in the taf-app, maybe podman/docker will be better, because Apptainer just for once running without enviroment changing.
+- 至少一个容器管理软件: ([Docker](https://www.docker.com/)/[Podman](https://podman.io/)/[Apptainer(Singularity)](https://apptainer.org/index.html))，我们的建议是：
+  - Windows(WSL)/Mac: [Docker](https://www.docker.com/) :: 适合于有 root 权限的个人用户；
+  - Linux : [Apptainer](https://apptainer.org/index.html)/[Podman](https://podman.io/) :: 对于没有 root 用户的 linux 多用户系统（不过您需要先使用 root 用户或权限来全局安装 apptainer 和 podman，以便于所有非 root 用户可以正常使用这些容器管理软件）
+    > 如果你需要的命令行工具每次都只是运行一次，那么选择 Apptainer 可能会更快；但如果你需要更改对应的环境设置，例如在 taf-app 中安装一些 python/R 包，或者使用 GUI 这种交互式软件，那么您应该安装使用 podman/docker，因为 Apptainer 只运行一次，并不能更改环境等。
 
-> If you want to install taffish for all users on your computer, you shold use root to install taffish, such like add 'sudo' before the install command ⬇️.
+> 如果你想为您计算机上的所有用户安装 taffish，你应该使用 root 来安装 taffish，例如在以下的安装命令前添加 'sudo'
 
 ### ![tiny-Debian-OpenLogo](https://github.com/user-attachments/assets/fc2e8de9-fbfc-4675-8d37-5181474be5b3) Debian12 (Linux)
 
@@ -62,7 +62,7 @@ sh -c "$(curl -fsSL https://github.com/taffish-org/taffish-install/releases/down
 
 
 
-## Quick Start
+## 快速开始
 
 ```bash
 taf update
@@ -143,4 +143,4 @@ taf-hello --to $USER
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
 
-> Sometimes, a taf-flow could use some tools which are not in taf-hub, because some tools need Licence, we can't make docker images for them, but you can install them by yourselves and make sure it's in your PATH, so that taffish can use it.
+> 有时候，taf-flow 可能会使用一些不在 taf-hub 中的工具，因为有些工具需要 License，我们无法为它们制作 docker 镜像，但您可以自己安装它们并确保它在您的 PATH 环境变量中，这样 taffish 就可以使用它们了。
