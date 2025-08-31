@@ -146,6 +146,7 @@ taf-hello --to $USER
 58. [pandepth :: v2.26](https://github.com/taffish-org/pandepth)
 59. [craq :: v1.0.9-alpha](https://github.com/taffish-org/craq)
 60. [merfin :: v1.1](https://github.com/taffish-org/merfin)
+61. [ucsc-kent :: v486](https://github.com/taffish-org/ucsc-kent)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
