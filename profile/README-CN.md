@@ -72,7 +72,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (75)
+## 🏠 TAFFISH-HUB (taf-apps) (76)
 
 ### ⚙️ BASE 基础 (8)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -84,7 +84,7 @@ taf-hello --to $USER
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 8. [gui :: v1.0.0](https://github.com/taffish-org/gui) (支持 gui)
 
-### 🛠️ TOOLs 工具 (66)
+### 🛠️ TOOLs 工具 (67)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -152,6 +152,7 @@ taf-hello --to $USER
 64. [quartet :: v1.2.5](https://github.com/taffish-org/quartet)
 65. [biser :: v1.0.9-alpha](https://github.com/taffish-org/biser)
 66. [circos :: v0.52.2](https://github.com/taffish-org/circos)
+67. [hicexplorer :: v3.7.6](https://github.com/taffish-org/hicexplorer)
 
 ### 🪢 FLOWs 流程 (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
