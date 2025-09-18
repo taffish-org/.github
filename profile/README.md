@@ -10,6 +10,7 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 ## ⛓️‍💥 Links
 - taffish official website: [https://taffish.com](https://taffish.com)
 - [github: taffish-hub](https://github.com/taffish-org/taffish-hub)
+- Preprint: [TAFFISH: A lightweight, modular, and containerized workflow framework for reproducible bioinformatics analyses](https://www.biorxiv.org/content/10.1101/2025.09.15.672424v1)
 
 
 
