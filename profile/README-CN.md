@@ -9,7 +9,12 @@ TAFFISH（Tools And Flows Framework Intensify SHell）让您无需担心软件�
 
 ## ⛓️‍💥 Links
 - taffish 官网: [https://taffish.com](https://taffish.com/taffish-cn.html)
-- [github: taffish 仓库](https://github.com/taffish-org/taffish-hub)
+- github: [taffish-hub](https://github.com/taffish-org/taffish-hub)
+- github: [taffish-examples](https://github.com/taffish-org/examples)
+
+
+## 📃 Publications
+- 预印版: [TAFFISH: A lightweight, modular, and containerized workflow framework for reproducible bioinformatics analyses](https://www.biorxiv.org/content/10.1101/2025.09.15.672424v1)
 
 
 
