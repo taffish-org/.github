@@ -16,7 +16,7 @@ TAFFISH(Tools And Flows Framework Intensify SHell) allows you to avoid worrying 
 
 ## 📃 Publications
 
-- Preprint: [TAFFISH: A lightweight, modular, and containerized workflow framework for reproducible bioinformatics analyses](https://www.biorxiv.org/content/10.1101/2025.09.15.672424v1)
+1. (Preprint) [Han, K. et al. TAFFISH: A lightweight, modular, and containerized workflow framework for reproducible bioinformatics analyses. 2025.09.15.672424 Preprint at https://doi.org/10.1101/2025.09.15.672424 (2025).](https://www.biorxiv.org/content/10.1101/2025.09.15.672424v1)
 
 
 
