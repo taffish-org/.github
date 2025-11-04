@@ -90,7 +90,7 @@ taf-hello --to $USER
 6. [intel-oneapi :: v2025.0.2-0-devel-ubuntu24.04](https://github.com/taffish-org/intel-oneapi)
 7. [hello :: v1.0.0](https://github.com/taffish-org/hello)
 8. [gui :: v1.0.0](https://github.com/taffish-org/gui) (support gui)
-9. [bypy :: v1.8.9](https://github.com/taffish-org/bypy) (need to enter the container to use it)
+9. [bypy :: v1.8.9](https://github.com/taffish-org/bypy) (may need to enter the container to use it)
 
 ### 🛠️ TOOLs (67)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
