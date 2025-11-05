@@ -114,7 +114,7 @@ taf-hello --to $USER
 19. [fastp :: v0.24.0](https://github.com/taffish-org/fastp)
 20. [kallisto :: v0.51.1](https://github.com/taffish-org/kallisto)
 21. [bustools :: v0.44.1](https://github.com/taffish-org/bustools)
-22. [hisat2 :: v2.2.1](https://github.com/taffish-org/hisat2) (amd64 only)
+22. [hisat2 :: v2.2.1](https://github.com/taffish-org/hisat2)
 23. [mafft :: v7.525](https://github.com/taffish-org/mafft)
 24. [clustal-omega :: v1.2.4](https://github.com/taffish-org/clustal-omega)
 25. [bwa :: v0.7.18](https://github.com/taffish-org/bwa)
