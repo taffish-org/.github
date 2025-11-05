@@ -77,7 +77,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (77)
+## 🏠 TAFFISH-HUB (taf-apps) (82)
 
 ### ⚙️ BASE 基础 (9)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -90,7 +90,7 @@ taf-hello --to $USER
 8. [gui :: v1.0.0](https://github.com/taffish-org/gui) (支持 gui)
 9. [bypy :: v1.8.9](https://github.com/taffish-org/bypy) (可能需要进入容器来交互式使用 bypy)
 
-### 🛠️ TOOLs 工具 (67)
+### 🛠️ TOOLs 工具 (72)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -159,6 +159,11 @@ taf-hello --to $USER
 65. [biser :: v1.0.9-alpha](https://github.com/taffish-org/biser)
 66. [circos :: v0.52.2](https://github.com/taffish-org/circos)
 67. [hicexplorer :: v3.7.6](https://github.com/taffish-org/hicexplorer)
+68. [SOAPnuke :: v2.1.9](https://github.com/taffish-org/SOAPnuke)
+69. [rsem :: v1.3.3](https://github.com/taffish-org/rsem)
+70. [stringtie :: v3.0.2](https://github.com/taffish-org/stringtie)
+71. [CPC2 :: v1.0.1](https://github.com/taffish-org/CPC2)
+72. [cufflinks :: v2.2.1](https://github.com/taffish-org/) (仅 amd64 架构可用)
 
 ### 🪢 FLOWs 流程 (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
