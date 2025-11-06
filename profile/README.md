@@ -79,7 +79,7 @@ taf-hello --to $USER
 
 
 
-## 🏠 TAFFISH-HUB (taf-apps) (82)
+## 🏠 TAFFISH-HUB (taf-apps) (85)
 
 ### ⚙️ BASE (9)
 1. [debian :: v12](https://github.com/taffish-org/debian)
@@ -92,7 +92,7 @@ taf-hello --to $USER
 8. [gui :: v1.0.0](https://github.com/taffish-org/gui) (support gui)
 9. [bypy :: v1.8.9](https://github.com/taffish-org/bypy) (may need to enter the container to use it)
 
-### 🛠️ TOOLs (72)
+### 🛠️ TOOLs (75)
 1. [muscle :: v5.3](https://github.com/taffish-org/muscle)
 2. [MCScanX :: v1.0.0](https://github.com/taffish-org/MCScanX)
 3. [uniprot-idmapping :: v1.0.0](https://github.com/taffish-org/uniprot-idmapping)
@@ -166,6 +166,9 @@ taf-hello --to $USER
 70. [stringtie :: v3.0.2](https://github.com/taffish-org/stringtie)
 71. [CPC2 :: v1.0.1](https://github.com/taffish-org/CPC2)
 72. [cufflinks :: v2.2.1](https://github.com/taffish-org/) (amd64 only)
+73. [tRNAscan-SE :: v2.0.12](https://github.com/taffish-org/tRNAscan-SE)
+74. [EDTA :: v2.2.2](https://github.com/taffish-org/EDTA)
+75. [miniprot :: v0.18](https://github.com/taffish-org/)
 
 ### 🪢 FLOWs (1)
 1. [gene-family-search :: v1.0.0](https://github.com/taffish-org/gene-family-search)
